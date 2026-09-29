@@ -2,9 +2,9 @@
 
 ## Mission Overview
 
-In this laboratory activity, I deployed MinIO, an S3-compatible
-object storage server, using Docker in a KillerCoda Playground.
-I created an object storage bucket named `client-photos` and
+In this laboratory activity, I deployed MinIO, an s3-compatible
+object storage server, using the Docker in the KillerCoda Playground.
+I made an object storage bucket named `client-photos` and
 uploaded a sample file to the bucket.
 
 ## Objectives
@@ -18,20 +18,21 @@ uploaded a sample file to the bucket.
 
 ## Tools Used
 
-- KillerCoda Playground
+
 - Docker
 - MinIO
 - GitHub
-- Web Browser
 - Ubuntu/Linux Terminal
-
+- KillerCoda Playground
+- Web Browser
+  
 ## Skills Learned
 
-- Cloud storage concepts
+- File uploading
 - Docker container deployment
-- Object storage management
 - Port forwarding
 - Bucket creation
-- File uploading
+- Object storage management
 - Markdown documentation
 - GitHub repository management
+- Cloud storage concepts
